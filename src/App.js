@@ -1,11 +1,12 @@
 import './App.css';
+import ComplexComponent from './complex-component/ComplexComponent';
 import CardItem from "./components/CartItem";
 
 function App() {
   return (
     
-      <CardItem></CardItem>
-    
+      // <CardItem></CardItem>
+    <ComplexComponent></ComplexComponent>
   );
 }
 
