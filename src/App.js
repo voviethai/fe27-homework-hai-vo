@@ -5,9 +5,10 @@ import "../src/complex-component/TravelList.jsx";
 
 function App() {
   return (
-    <TravelList></TravelList>
+      // <TravelList></TravelList>
       // <CardItem></CardItem>
     // <ComplexComponent></ComplexComponent>
+    <NumberClick></NumberClick>
   );
 }
 
